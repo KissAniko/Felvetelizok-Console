@@ -1,0 +1,364 @@
+﻿Skvar Tamás,f,288,Matematikus,Nincs
+Tatár István,f,234,Gépészmérnök,Közép
+Siket Karen,l,301,Gépészmérnök,Felső
+Dombovári Petra,l,231,Programtervező informatikus,Nincs
+Rém Elek,f,319,Angol tanár,Felső
+Sebő Tas,f,260,Fizikus,Alap
+Szendrődi Csaba,f,259,Matematikus,Alap
+Berger Péter,f,290,Matematika tanár,Felső
+Csonka Anna,l,346,Mérnök informatikus,Nincs
+Kovács Ágnes,l,323,Programtervező informatikus,Felső
+Szőke Mátyás,f,264,Fizikus,Alap
+Kiss Zsófia,l,326,Építőmérnök,Közép
+Bakos Kata Judit,l,340,Mérnök informatikus,Nincs
+Bodnár Anna Katalin,l,332,Programtervező informatikus,Felső
+Keszthelyi Zsolt,f,342,Gépészmérnök,Nincs
+Kiss Lajos,f,253,Angol tanár,Közép
+Szabó Orsolya Virág,l,326,Építőmérnök,Közép
+Vég Kálmán,f,281,Programtervező informatikus,Alap
+Hirzer Zsolt,f,241,Matematika tanár,Felső
+Kincses Zoltán,f,264,Angol tanár,Közép
+Zentay Réka,l,312,Gazdasági informatikus,Alap
+Kovai Róbert,f,245,Informatika tanár,Nincs
+Koch Róbert,f,312,Angol tanár,Nincs
+Szilágyi István,f,346,Angol tanár,Alap
+Horváth Pál,f,259,Programtervező informatikus,Közép
+Duma Árpád,f,246,Fizikus,Nincs
+Nemes Gerda,l,347,Matematika tanár,Nincs
+Zsolnai Péter,f,313,Német tanár,Alap
+Illés Nóra,l,281,Informatika tanár,Közép
+Fődi Anna,l,259,Programtervező informatikus,Közép
+Szűcs Lóránt,f,338,Építészmérnök,Nincs
+Borsos Anett,l,335,Fizikus,Nincs
+Sarlós Róbert,f,318,Informatika tanár,Alap
+Hoffmann Bettina,l,349,Programtervező informatikus,Nincs
+Farkas Ildikó,l,319,Német tanár,Felső
+Gál Brigitta,l,249,Gépészmérnök,Nincs
+Szabó Izabella Diána,l,240,Német tanár,Nincs
+Dudás Krisztián,f,280,Matematika tanár,Alap
+Csordás Kálmán,f,338,Építészmérnök,Közép
+Tóth Alexandra,l,257,Angol tanár,Közép
+Dorogi Nóra Gréta,l,270,Építészmérnök,Nincs
+Nemes Petra,l,285,Matematika tanár,Közép
+Schulcz Imola,l,311,Programtervező informatikus,Közép
+Senkey Tamás,f,304,Angol tanár,Közép
+Nyers Sándor,f,255,Fizikus,Nincs
+Szekeres József,f,250,Gépészmérnök,Alap
+Berényi Zsolt,f,305,Informatika tanár,Nincs
+Bánfalvi Ramóna,l,281,Fizikus,Nincs
+Rácz Lili,l,253,Gazdasági informatikus,Felső
+Botos Noémi,l,326,Angol tanár,Felső
+Kasznár Judit,l,266,Angol tanár,Alap
+Kerekes Lili,l,239,Informatika tanár,Közép
+Kis Barbara Emma,l,325,Építészmérnök,Nincs
+Nagy Eszter,l,251,Informatika tanár,Alap
+Benkő Kata Enikő,l,312,Matematika tanár,Nincs
+Urbán Roland,f,298,Programtervező informatikus,Felső
+Samu Blanka,l,312,Építőmérnök,Közép
+Pálinkás Anna,l,337,Gépészmérnök,Nincs
+Falch Emil,f,287,Fizikus,Közép
+Teleki Kálmán,f,349,Matematikus,Alap
+Sima Dezső,f,278,Mérnök informatikus,Nincs
+Rudas Ádám,f,239,Fizikus,Nincs
+Forrai Laura,l,293,Mérnök informatikus,Nincs
+Irinyi Katalin Ida,l,309,Matematika tanár,Közép
+Hódi Vivien,l,306,Informatika tanár,Alap
+Máté Oszkár,f,274,Gépészmérnök,Nincs
+Püski Kata,l,236,Fizikus,Alap
+Mészáros Anita Réka,l,326,Mérnök informatikus,Alap
+Kis Nóra Judit,l,347,Informatika tanár,Alap
+Nyári Judit,l,296,Angol tanár,Közép
+Balog Orsolya,l,347,Fizikus,Alap
+Zombori Adrienn,l,319,Gépészmérnök,Alap
+Tóti Albert,f,302,Mérnök informatikus,Nincs
+Petres Zoltán,f,319,Matematikus,Alap
+Rovó Petra,l,324,Mérnök informatikus,Nincs
+Fogó Róbert,f,322,Gépészmérnök,Közép
+Juhász Imre,f,277,Angol tanár,Felső
+Tanács Lilla,l,299,Matematikus,Közép
+Kiss Sándor,f,336,Programtervező informatikus,Felső
+Kovács Vivien,l,300,Matematika tanár,Alap
+Kun Anna,l,317,Matematika tanár,Alap
+Pályi Balázs,f,277,Német tanár,Közép
+Kristóf Petra,l,279,Angol tanár,Felső
+Gábor Zita,l,242,Német tanár,Alap
+Lakatos Zita Ildikó,l,324,Építészmérnök,Felső
+Garadnai Zoltán,f,348,Matematika tanár,Alap
+Bognár Ágnes,l,257,Angol tanár,Közép
+Dobi Brigitta Krisztina,l,320,Építészmérnök,Alap
+Dócz Károly,f,252,Programtervező informatikus,Alap
+Halász Norbert,f,291,Építőmérnök,Nincs
+Szántó Lilla,l,277,Programtervező informatikus,Nincs
+Dóka Csenge,l,286,Német tanár,Nincs
+Szántó Mónika,l,324,Gépészmérnök,Nincs
+Vidács László,f,300,Angol tanár,Közép
+Kardos Norbert,f,250,Német tanár,Közép
+Dancs Zsófia Edit,l,335,Mérnök informatikus,Nincs
+Spák Tamás,f,243,Gépészmérnök,Felső
+Varga Mátyás,f,280,Gazdasági informatikus,Közép
+Bózsó Boglárka,l,300,Matematikus,Felső
+Márkus Anna,l,285,Építészmérnök,Felső
+Lengyel Anna,l,295,Programtervező informatikus,Alap
+Boldizsár Nóra Kata,l,254,Programtervező informatikus,Nincs
+Kővágó Andrea Kata,l,268,Mérnök informatikus,Alap
+Nagy Lili Lujza,l,304,Matematikus,Alap
+Forgó Elza,l,239,Mérnök informatikus,Felső
+Vincze Adél,l,230,Programtervező informatikus,Alap
+Tóth Kálmán,f,340,Építészmérnök,Felső
+Balla Fanni,l,233,Építészmérnök,Felső
+Juhász Cintia,l,236,Gazdasági informatikus,Alap
+Borisz Norbert,f,231,Matematikus,Nincs
+Wollek Ottó,f,246,Matematika tanár,Nincs
+Kárpáti Annamária,l,260,Programtervező informatikus,Felső
+Sebők Franciska,l,260,Gépészmérnök,Nincs
+Jónás Nikolett,l,286,Gazdasági informatikus,Felső
+Kiss-Szabó Péter,f,252,Német tanár,Közép
+Kármán Luca,l,289,Építőmérnök,Közép
+Csontos Imre,f,286,Német tanár,Alap
+Kovács Lili,l,239,Matematikus,Alap
+Bodosi Béla,f,263,Gazdasági informatikus,Nincs
+Réti Beáta,l,297,Fizikus,Felső
+Bálint Laura,l,342,Gazdasági informatikus,Közép
+Bodrogi Gergely,f,322,Informatika tanár,Alap
+Bata Ágnes,l,312,Gazdasági informatikus,Közép
+Veres Annamária,l,289,Német tanár,Közép
+Sipos Lilla,l,263,Matematika tanár,Felső
+Oláh Sztella,l,257,Matematikus,Közép
+Gyömbér Ágnes,l,253,Matematika tanár,Nincs
+Juhász Viktória,l,273,Német tanár,Közép
+Fodor Nikolett,l,336,Gazdasági informatikus,Közép
+Kiss Orsolya,l,251,Építőmérnök,Nincs
+Ördög Fanni Zsófia,l,301,Matematika tanár,Közép
+Kosztolányi András,f,245,Építészmérnök,Alap
+Sebők Flóra,l,254,Építészmérnök,Alap
+Kószó Petra,l,319,Programtervező informatikus,Felső
+Guttmann Gábor,f,311,Angol tanár,Felső
+Mészáros Stella,l,262,Gépészmérnök,Alap
+Hegedűs Réka,l,341,Német tanár,Felső
+Kurucz Rebeka Judit,l,268,Fizikus,Alap
+Béla Kitti,l,277,Mérnök informatikus,Nincs
+Kovács Győző,f,280,Angol tanár,Alap
+Molnár Gergely,f,322,Építőmérnök,Közép
+Szabó Viktória,l,305,Matematikus,Felső
+Sós Imre,f,246,Építőmérnök,Közép
+Kiss Rea,l,278,Informatika tanár,Felső
+Bíró Alexandra Éva,l,247,Programtervező informatikus,Felső
+Terjéki Zsuzsanna Emese,l,347,Építőmérnök,Alap
+Kipall Ede,f,309,Programtervező informatikus,Közép
+Lovai László,f,271,Programtervező informatikus,Felső
+Kuti Zoltán,f,260,Mérnök informatikus,Felső
+Moli Hugó,f,299,Programtervező informatikus,Felső
+Zombori Lili,l,253,Programtervező informatikus,Felső
+Tomma Árpád,f,271,Építőmérnök,Alap
+Nagy Tímea,l,266,Programtervező informatikus,Felső
+Hegyközi Tünde Dóra,l,300,Mérnök informatikus,Felső
+Kockás Tamás,f,265,Mérnök informatikus,Nincs
+Borbás Ferenc,f,310,Gépészmérnök,Felső
+Holzi Ervin,f,341,Építészmérnök,Közép
+Varga Éva,l,348,Matematikus,Közép
+Tóth Zita,l,292,Gazdasági informatikus,Nincs
+Sipos Réka,l,249,Matematikus,Felső
+Mezőlaki Gabriella,l,326,Matematika tanár,Alap
+Szednicsek Jenő,f,241,Építőmérnök,Nincs
+Weiler Endre,f,285,Építészmérnök,Felső
+Maróti Gabriella Márta,l,311,Gépészmérnök,Alap
+Molnár Balázs,f,340,Építőmérnök,Nincs
+Szentei Igor,f,263,Gépészmérnök,Alap
+Kovács István,f,284,Matematikus,Nincs
+Farkas Betti,l,254,Építészmérnök,Közép
+Károly Gusztáv,f,249,Matematika tanár,Közép
+Jován Máté,f,326,Fizikus,Közép
+Fekete Zsolt,f,238,Matematika tanár,Felső
+Péter Tamás,f,350,Informatika tanár,Felső
+Schaff József,f,275,Gazdasági informatikus,Felső
+Zádori Kata Mária,l,346,Német tanár,Közép
+Máté Georgina,l,309,Gazdasági informatikus,Alap
+Varga Nikolett,l,238,Matematikus,Felső
+Rákos Pál,f,316,Német tanár,Nincs
+Pászti Szimonetta,l,272,Programtervező informatikus,Felső
+Solti Pál,f,281,Matematikus,Közép
+Csonka Zita,l,338,Matematika tanár,Közép
+Takács Ágota,l,338,Építőmérnök,Alap
+Marsi Nóra,l,338,Német tanár,Alap
+Bányai Balázs,f,342,Gépészmérnök,Alap
+Varga Petra,l,230,Építészmérnök,Nincs
+Bencsik Áron,f,254,Programtervező informatikus,Nincs
+Farkas Lilla,l,298,Mérnök informatikus,Nincs
+Hajdú Kitti Ildikó,l,291,Matematika tanár,Alap
+Herédi Gabriella,l,297,Mérnök informatikus,Alap
+Bajnai Zsuzsanna,l,256,Fizikus,Felső
+Budai Tamás,f,263,Gépészmérnök,Közép
+Keresztes Zsolt,f,307,Fizikus,Alap
+Kopasz Klaudia,l,243,Matematikus,Alap
+Kiss Stella,l,299,Programtervező informatikus,Alap
+Horváth Rita,l,337,Matematikus,Alap
+Erdélyi Dóra,l,230,Angol tanár,Nincs
+Mészáros Emília,l,275,Angol tanár,Nincs
+Pusztai Géza,f,235,Gépészmérnök,Nincs
+Mach Mózes,f,291,Informatika tanár,Felső
+Bertók Katalin,l,275,Építőmérnök,Felső
+Balog Tibor,f,340,Gazdasági informatikus,Közép
+Nógrádi Alexandra,l,253,Gépészmérnök,Nincs
+Varga Stella Gréta,l,322,Építőmérnök,Felső
+Herceg Natália,l,252,Informatika tanár,Nincs
+Benedek Anna,l,287,Gépészmérnök,Nincs
+Ladányi Renáta,l,241,Építészmérnök,Nincs
+Makra Csenge Kata,l,293,Gépészmérnök,Közép
+Bárány Noémi,l,270,Informatika tanár,Közép
+Török Éva,l,249,Építőmérnök,Nincs
+Hódi Katalin,l,319,Matematika tanár,Felső
+Urbán Zsófia Katalin,l,299,Fizikus,Közép
+Ádám Éva,l,346,Építőmérnök,Közép
+Németh Rebeka Anna,l,259,Matematikus,Nincs
+Bodor Flóra,l,259,Matematika tanár,Nincs
+Kaltenbrunner Norbert,f,264,Fizikus,Alap
+Ébner Dezső,f,340,Német tanár,Alap
+Gyulai Zsófia,l,300,Matematika tanár,Közép
+Horváth Dorina,l,236,Angol tanár,Felső
+Müller Péter,f,350,Gépészmérnök,Közép
+Zombori Ákos,f,311,Matematikus,Felső
+Karlsen Ottó,f,325,Német tanár,Nincs
+Nemes Elek,f,235,Matematikus,Közép
+Füst Szabolcs,f,273,Építőmérnök,Közép
+Nagy Gábor,f,341,Angol tanár,Nincs
+Vastag Luca,l,314,Gazdasági informatikus,Alap
+Bozóki Patrícia,l,244,Angol tanár,Közép
+Gyetvai Zsolt,f,328,Építőmérnök,Felső
+Csáki Kata,l,322,Fizikus,Felső
+Sebők Ildikó,l,327,Matematikus,Felső
+Sütő Péter,f,273,Fizikus,Közép
+Kalmár Gábor,f,335,Gazdasági informatikus,Nincs
+Vass Réka,l,239,Informatika tanár,Alap
+Váradi Nóra,l,259,Gazdasági informatikus,Alap
+Fábián Nóra,l,315,Fizikus,Felső
+Nagy Eta,l,275,Gazdasági informatikus,Alap
+Tárkány Csilla,l,304,Angol tanár,Nincs
+Varga Alexandra,l,266,Mérnök informatikus,Alap
+Varga Emese,l,316,Német tanár,Alap
+Végh Anna Lili,l,323,Fizikus,Nincs
+Tan József,f,311,Német tanár,Felső
+Koródy Tamás,f,243,Építőmérnök,Közép
+Püspök Anna,l,280,Gazdasági informatikus,Alap
+Nagy Anna Magdolna,l,233,Gazdasági informatikus,Nincs
+Szűcs Fanni Lívia,l,258,Gazdasági informatikus,Közép
+Csanády Virág Sarolta,l,260,Programtervező informatikus,Nincs
+Török Patrícia,l,271,Matematika tanár,Nincs
+Molnár Dorottya,l,237,Német tanár,Felső
+Csizmadia Mónika,l,266,Építőmérnök,Közép
+Kereki Pál,f,284,Mérnök informatikus,Nincs
+Török Réka Zsófia,l,239,Informatika tanár,Felső
+Erdélyi Réka,l,259,Mérnök informatikus,Közép
+Kozmann György,f,309,Matematika tanár,Alap
+Csom Olivér,f,309,Építőmérnök,Nincs
+Fábián Eszter Aliz,l,249,Programtervező informatikus,Alap
+Kőszegi Bernadett,l,322,Építőmérnök,Közép
+Márton Katalin,l,287,Mérnök informatikus,Felső
+Bóna Borbála Éva,l,266,Építőmérnök,Közép
+Somi József,f,320,Matematikus,Közép
+Benkő Melinda,l,331,Programtervező informatikus,Közép
+Papp Brigitta,l,261,Építőmérnök,Közép
+Som Lajos,f,321,Mérnök informatikus,Nincs
+Hámori Frigyes,f,261,Gazdasági informatikus,Közép
+Németh Zoltán,f,241,Matematikus,Alap
+Leander Jácint,f,339,Informatika tanár,Közép
+Fehér Zoltán,f,285,Matematika tanár,Közép
+Bereczki Gerda,l,256,Építészmérnök,Alap
+Sebők Géza,f,273,Programtervező informatikus,Felső
+Molnár Réka Evelin,l,268,Fizikus,Nincs
+Tiszai Dóra,l,260,Angol tanár,Nincs
+Tóth Lilla Brigitta,l,300,Matematikus,Nincs
+Csapó Gábor,f,287,Német tanár,Közép
+Nyári Anna,l,284,Építészmérnök,Alap
+Takács Veronika,l,294,Gépészmérnök,Felső
+Vajna Sára Réka,l,278,Programtervező informatikus,Közép
+Földesi Kata,l,245,Matematika tanár,Nincs
+Lehóczki Bernadett,l,297,Gazdasági informatikus,Felső
+Baranyi Noémi Lilla,l,330,Programtervező informatikus,Nincs
+Horányi Lilla Krisztina,l,329,Matematika tanár,Közép
+Nyakas Dénes,f,243,Építőmérnök,Alap
+Ormos Zoltán,f,299,Építészmérnök,Közép
+Somogyi Orsolya,l,325,Matematika tanár,Közép
+Szilasi Eszter Dalma,l,335,Gazdasági informatikus,Nincs
+Lisztes Imre,f,329,Német tanár,Közép
+Esztergályos Gábor,f,314,Építészmérnök,Közép
+Török Ildikó,l,310,Matematika tanár,Felső
+Kovács Anikó,l,259,Építőmérnök,Közép
+Kovács Imre,f,262,Építészmérnök,Alap
+Sár Gábor,f,259,Angol tanár,Nincs
+Blum Ottó,f,273,Matematikus,Nincs
+Tóth Zoltán,f,285,Építészmérnök,Közép
+Presszer Hugó,f,262,Matematikus,Felső
+Bitó Helga,l,246,Matematika tanár,Közép
+Bitó Réka Emese,l,349,Építőmérnök,Közép
+Dábity Ottó,f,259,Építőmérnök,Nincs
+Nik Ferenc,f,302,Építészmérnök,Alap
+Berta Alexandra,l,324,Gazdasági informatikus,Alap
+Kincses Blanka,l,267,Német tanár,Nincs
+Alsó Emil,f,334,Építészmérnök,Közép
+Szántó Zsuzsanna,l,348,Német tanár,Felső
+Garai Nóra,l,257,Építőmérnök,Nincs
+Gyurcsik Zsófia Kata,l,258,Építészmérnök,Nincs
+Budavári Bence,f,276,Mérnök informatikus,Nincs
+Magyari Ivana,l,325,Építőmérnök,Felső
+Kecskés László,f,341,Építőmérnök,Alap
+Nagy Orsolya,l,292,Matematikus,Alap
+Nagy Tibor,f,259,Matematika tanár,Közép
+Fazekas Tamás,f,258,Matematika tanár,Felső
+Deme Noémi,l,336,Építőmérnök,Alap
+Zombori Anna,l,328,Informatika tanár,Nincs
+Kremp Gusztáv,f,243,Programtervező informatikus,Nincs
+Molnár Anna,l,286,Matematika tanár,Közép
+Szósz György,f,255,Gazdasági informatikus,Nincs
+Bordás Gábor,f,346,Matematikus,Nincs
+Tóth Tímea Kitti,l,269,Mérnök informatikus,Nincs
+Takács Kata,l,270,Matematikus,Felső
+Szabó Kitti,l,347,Angol tanár,Nincs
+Dombi Ákos,f,239,Matematikus,Közép
+Pribai Zoltán,f,325,Matematikus,Felső
+Hrisztov Temir,f,282,Programtervező informatikus,Alap
+Solymosi Ödön,f,341,Informatika tanár,Alap
+Izsó Gusztáv,f,321,Angol tanár,Felső
+Stofin József,f,313,Német tanár,Felső
+Lajos Lajos,f,251,Fizikus,Közép
+Kiss Blanka,l,298,Fizikus,Nincs
+Bog Aladár,f,281,Angol tanár,Felső
+Béres Réka Sarolt,l,304,Informatika tanár,Közép
+Császár Mónika Krisztina,l,297,Programtervező informatikus,Nincs
+Szűcs Miklós,f,313,Gazdasági informatikus,Nincs
+Kószó Annamária,l,292,Építészmérnök,Nincs
+Sági Anikó,l,301,Építőmérnök,Felső
+Gyulai Zsófia Julianna,l,283,Programtervező informatikus,Felső
+Kisó Ábel,f,334,Angol tanár,Alap
+Kovács Zoltán,f,296,Gépészmérnök,Nincs
+Korsós Kálmán,f,332,Gazdasági informatikus,Felső
+Bedő Anna,l,269,Építészmérnök,Alap
+Kelemen Enikő,l,325,Német tanár,Közép
+Pálfi Evelin,l,255,Építészmérnök,Alap
+Csíbor Tamás,f,339,Matematikus,Nincs
+Zólyomi Kristóf,f,293,Építészmérnök,Alap
+Vlad Igor,f,285,Építészmérnök,Felső
+Papp Vanessza,l,323,Matematikus,Alap
+Nagy Réka,l,344,Programtervező informatikus,Közép
+Kertész Nándor,f,307,Matematika tanár,Közép
+Szűcs Melinda,l,289,Német tanár,Alap
+Farkas Noémi Eszter,l,254,Mérnök informatikus,Nincs
+Erdélyi Eszter,l,255,Mérnök informatikus,Nincs
+Várkonyi Rita,l,317,Gépészmérnök,Alap
+Kautzky Alfonz,f,230,Mérnök informatikus,Nincs
+Horváth Viola,l,304,Matematika tanár,Közép
+Seprenyi Johanna Ágnes,l,282,Gépészmérnök,Nincs
+Gyapjas Viktória,l,263,Gazdasági informatikus,Közép
+Kertész Lili Barbara,l,328,Német tanár,Nincs
+Nyilas Gábor,f,230,Gépészmérnök,Nincs
+Kiss Georgina,l,294,Német tanár,Nincs
+Haraszti Zita Zsófia,l,264,Gazdasági informatikus,Közép
+Késmárky Péter,f,311,Informatika tanár,Nincs
+Szalma Sándor,f,249,Matematika tanár,Nincs
+Kása Blanka,l,262,Gazdasági informatikus,Közép
+Kovács Fanni,l,323,Angol tanár,Nincs
+Boldog Eszter,l,266,Mérnök informatikus,Közép
+Rómer Flórián,f,287,Matematikus,Alap
+Németh Edit,l,268,Építészmérnök,Közép
+Polgár István,f,300,Építészmérnök,Nincs
+Molnár Mónika,l,261,Építőmérnök,Alap
+Szabó Boglárka Gyöngyi,l,253,Építőmérnök,Közép
